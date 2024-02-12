@@ -11,7 +11,7 @@ public class Main {
 		ATM atm = new ATM();
 		
 	    //  creating an object from Account class
-		Account account = new Account("Zeynep Tanrıvermiş", "2004", 5000);
+		Account account = new Account("Zeynep Tanrivermis", "2004", 5000);
 		
 		atm.start(account);
 		
